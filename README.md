@@ -1,4 +1,4 @@
- <img src="acer.jpg">
+ <img src="acer.png">
 
 ## Configuración
 
@@ -14,5 +14,5 @@
 | MacOS               | Descarga                                   |  
 | ------------------- | -------------------------------------------
 | macOS Mojave        |  Enlace                                    |
-| macOS Catalina      |  Enlace                                    |
-| macOS Big Sur       |  Enlace                                    |
+| macOS Catalina      |  <a href="https://github.com/daviiid99/Acer-Aspire-E5-571G/releases/tag/Catalina">10.15.x</a>|
+| macOS Big Sur       |  <a href="https://github.com/daviiid99/Acer-Aspire-E5-571G/releases/tag/11.1">11.1</a>|
