@@ -1,4 +1,4 @@
- <img src="acer.png">
+ <img src="acer.jpg">
 
 ## Configuración
 
