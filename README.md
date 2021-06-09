@@ -24,5 +24,5 @@
 | macOS Big Sur       | Newest Stable release| Stable| Working| Not working| Working, some faults| Not working, kernel panic|
 | macOS Monterey      | Future Release | Stable | Working| Working, with workaround & SIP disabled| Working, some faults| Not working, kernel panic|
 
-<b>NOTE:</b> Due to new versions of macOS are released every year, older versions are deprecated in favour of latest release.
+<b>NOTE:</b> Due to new macOS versions are released every year, older versions are deprecated in favour of latest release.
 Newest macOS version is always the recommended to pick.
